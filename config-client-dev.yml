@@ -1,12 +1,12 @@
 config-client:
   some-int: 100
-  some-string: Howdy!
+  some-string: Howzyall!
   some-map:
     key1: value1
     key2: value2
   some-list:
-    - name: name1
-      type: type1
+    - name: Have a great day!
+      type: STRING
     - name: name2
       type: type2
  
